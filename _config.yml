@@ -4,10 +4,10 @@
 # SITE SPECIFIC: The following fields are typically changed for each site
 name: Science Policy 101
 baseurl: /SciPol101
-morea_theme: spacelab
+morea_theme: darkly
 timezone: America/New_York
 morea_navbar_items:
-  - Prerequisites
+  # - Prerequisites
   - Modules
   - Outcomes
   - Readings
