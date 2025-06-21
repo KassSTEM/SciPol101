@@ -18,7 +18,7 @@ This course is intended for undergraduate and graduate students in science or en
 SciPol 101 is structured as a sequential series of [modules]({{ site.baseurl }}/modules/index.md), each taking approximately a week to complete. Each module has the following structure:
 
   * [Prerequisites](/prerequisites/), describing skills you should have prior to starting the module.
-  * [Learning outcomes]({{ site.baseurl }}/outcomes), describing the major goals for the module.
+  * [Learning outcomes]({{ baseurl }}/outcomes), describing the major goals for the module.
   * [Readings and other online resources]({{ site.baseurl }}/readings), providing background material.
   * [Experiential learning activities]({{ site.baseurl }}/experiences), providing a structured set of challenges enabling you to acquire mastery of material.
   * [Assessments]({{ site.baseurl }}/assessments), which help you determine if you have acquired mastery of the material.
