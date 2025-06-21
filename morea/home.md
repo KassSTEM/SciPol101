@@ -15,7 +15,7 @@ This course is intended for undergraduate and graduate students in science or en
 
 ## Pedagogy
 
-SciPol 101 is structured as a sequential series of [modules]({{ 'modules.md' | relative_url }}), each taking approximately a week to complete. Each module has the following structure:
+SciPol 101 is structured as a sequential series of [modules]({{ 'modules/index.md' | relative_url }}), each taking approximately a week to complete. Each module has the following structure:
 
   * [Prerequisites]({{ site.baseurl }}/prerequisites), describing skills you should have prior to starting the module.
   * [Learning outcomes]({{ site.baseurl }}/outcomes), describing the major goals for the module.
