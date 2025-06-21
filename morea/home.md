@@ -11,7 +11,7 @@ SciPol 101 is a four week overview of selected topics in computer science, inclu
 
 ## Who should take this course
 
-This course is intended for undergraduates in science or engineering who are interested in learning about and possibly getting involved in science policy.
+This course is intended for undergraduate and graduate students in science or engineering who are interested in learning more about and possibly getting involved in science policy.
 
 ## Pedagogy
 
