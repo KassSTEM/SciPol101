@@ -7,11 +7,11 @@ published: true
 
 ## Welcome to Science Policy 101
 
-SciPol 101 is a four week overview of selected topics in computer science, including Javascript, Open Source Software, and Ethics.
+SciPol 101 is a twelve-week overview of selected topics in science policy.
 
 ## Who should take this course
 
-This course is intended for undergraduate and graduate students in science or engineering who are interested in learning more about and possibly getting involved in science policy.
+This course is intended for undergraduate and graduate students in science or engineering who are interested in learning more about science policy and want to make a difference at the intersection of science and policy.
 
 ## Pedagogy
 
