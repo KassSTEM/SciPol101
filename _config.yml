@@ -3,7 +3,7 @@
 
 # SITE SPECIFIC: The following fields are typically changed for each site
 name: Science Policy 101
-baseurl: /scipol101
+baseurl: /SciPol101
 morea_theme: cerulean
 timezone: America/New_York
 morea_navbar_items:
