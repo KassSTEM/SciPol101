@@ -26,7 +26,7 @@ SciPol 101 is a twelve-week overview of selected topics in science policy.
 
 ## Intended Audience
 
-This course is intended for undergraduate and graduate students in science or engineering who are interested in learning more about science policy and want to make a difference at the intersection of science and policy. Like-minded individuals are welcome to use these resources with attribution.
+This course is intended for undergraduate and graduate students in science or engineering who are interested in learning more about science policy. Ways to get invoved at the intersection of science and policy and make a difference will also be discussed. Like-minded individuals are welcome to use these resources with appropriate attribution.
 
 ## Pedagogy
 
